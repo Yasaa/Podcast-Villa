@@ -1,0 +1,117 @@
+
+
+Things to steal and customize:
+1.Creative Tim:
+Circle images-
+<div class="container">
+  <h2>Image</h2>
+  <p>The .img-circle class shapes the image to a circle (not available in IE8):</p>            
+  <img src="cinqueterre.jpg" class="img-circle" alt="Cinque Terre" width="250" height="236"> 
+</div>
+
+,Colour palette-
+white:#FFFFFF or #FFFAFA
+purple:#9C27B0
+
+
+
+
+
+
+		
+
+
+
+
+
+3.Bootstrap.min.css,Bootstrap.min.js(from cheatsheet only)
+Buttons(only shape and size),Navigation bar,container class,search bar
+
+Buttons-.btn-lg,.btn-toolbar,.btn-success(for long headings),
+         .btn,.btn-primary,
+         .btn-round{
+         border-radius: 30px;
+         border-top-left-radius: 30px;
+         border-top-right-radius: 30px;
+         border-bottom-right-radius: 30px;
+         border-bottom-left-radius: 30px;
+         }
+Navigation bar-Need to work on the Slide Push menu for that.Also need a menu icon.
+
+Container class-.container
+
+Search bar-An icon is downloaded use hover effect on it and customize the following code
+
+
+           <div class="row">
+  <div class="col-lg-6">
+    <div class="input-group">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button">Go!</button>
+      </span>
+      <input type="text" class="form-control" placeholder="Search for...">
+    </div><!-- /input-group -->
+  </div><!-- /.col-lg-6 -->
+  <div class="col-lg-6">
+    <div class="input-group">
+      <input type="text" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+  </div><!-- /.col-lg-6 -->
+</div><!-- /.row -->
+
+
+4.http://google.github.io/material-design-icons/
+Icons-menu icon,user icon,play icon,search icon(done),download icon,playlist icon,podcast mic icon,share icon,notifications icon.
+
+
+5.Google Fonts
+the font family,the font colour
+
+the font family-Roboto/Ubuntu/Open Sans Condensed/ Bootstrap's Default font family.
+the font colour-black #000000,grey #d3d3d3
+
+
+
+
+
+
+6.Things to create by self:
+Grid system,Transparent coloured buttons,positioning everything,making sure two or more different sources dont use the same class name/id name/inheritance/element name,images,svgs,5 songs to play,login page,logged out redirects to Home Page.
+
+
+
+
+______________________________________________________________________________________________________________________________
+
+1.Block,Inline-block,inline:
+ div,p,img ?
+
+2.Images stacked under one div of one class
+3.Images stacked under a div of one class which keeps opening and closing for every image.
+
+4.All about css float
+5.All about css margin.
+
+6.Videos on positioning of divs and then returning to the example titled "untitled" and playing around with it on this link:
+
+https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery
+
+
+
+______________________________________________________________________________________________________________________________
+Use "margin:5px" on every image.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+STEPS:
+
+1.Basic Layout-Done.
+
+
+2.Detailing-
+
+
+3.Getting the Desired product-
